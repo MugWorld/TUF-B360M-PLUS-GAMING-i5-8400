@@ -11,7 +11,5 @@
 
 
 
-
-
-![image](https://raw.githubusercontent.com/MugWorld/TUF-B360M-PLUS-GAMING-i5-8400/main/IMAGE/2022-08-30%20072404.png)
+[![2022-08-30-072404.png](https://i.postimg.cc/5tS5b97Q/2022-08-30-072404.png)](https://postimg.cc/p9y5BvtP)
 
