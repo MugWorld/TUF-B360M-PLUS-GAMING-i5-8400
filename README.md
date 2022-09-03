@@ -13,5 +13,5 @@
 
 
 
-![image](./IMAGE/2022-08-30 072404.png)
+![image](https://raw.githubusercontent.com/MugWorld/TUF-B360M-PLUS-GAMING-i5-8400/main/IMAGE/2022-08-30%20072404.png)
 
